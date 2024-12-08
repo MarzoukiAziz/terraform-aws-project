@@ -1,4 +1,5 @@
 # Node.js AWS Infrastructure
+![Uploading architecture diagram.png…]()
 
 ## Solution Overview
 This solution utilizes AWS services for a secure, scalable, and cost-efficient cloud architecture, with **Terraform** for infrastructure automation and **GitHub Actions** for deployment.
